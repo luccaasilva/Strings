@@ -1,4 +1,4 @@
-public class CompararIgnoreCase {
+public class E2CompararIgnoreCase {
     public static void main(String[] args) {
         String cadena1 = Utilidades.leerCadena("Cadena 1");
         String cadena2 = Utilidades.leerCadena("Cadena 2");

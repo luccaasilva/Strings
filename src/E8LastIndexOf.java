@@ -1,4 +1,4 @@
-public class LastIndexOf {
+public class E8LastIndexOf {
 
     public static void main(String[] args) {
         String cadena1 = Utilidades.leerCadena("Cadena 1");

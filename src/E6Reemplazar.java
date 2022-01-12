@@ -1,4 +1,4 @@
-public class Reemplazar {
+public class E6Reemplazar {
     public static void main(String[] args) {
         String cadena = Utilidades.leerCadena("Cadena");
         char caracter1 = Utilidades.leerCaracter("Caracter a remplazar");

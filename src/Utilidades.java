@@ -40,7 +40,7 @@ public class Utilidades {
     public static String[] dividirEnPalabras(String cadena){
         // Quitar espacios en blanco al principio y al final
         cadena=cadena.trim();
-        // Reemplazar uno o más espacios en blanco por un solo espacio
+        // E6Reemplazar uno o más espacios en blanco por un solo espacio
         cadena=cadena.replaceAll(" +", " ");
         // Dividir la cadena en partes por el carácter espacio (devuelve un array con cada una de las partes)
         return cadena.split(" ");
